@@ -1,6 +1,6 @@
 # Program: Campaign Randomizer
 # Created by Josh Auer
-# Conntributors: Dominic Napolitano, Joshua Goodwin, Jonathan Reagan, Alice Keeling, Maura Dickson
+# Contributors: Dominic Napolitano, Joshua Goodwin, Jonathan Reagan, Alice Keeling, Maura Dickson
 
 from random import randint
 
